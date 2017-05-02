@@ -4,8 +4,8 @@ using namespace std;
 /*******************************************************************\
 |                       Md.Mahbubur Rahman                          |
 |   	BANGLADESH UNIVERSITY OF BUSINESS & TECHNOLOGY(BUBT).	    |
-|		 	    Deptartment of  CSE			    |
-|                        mail:mahbubabid8@gmail.com                 |
+|		 	Deptartment of  CSE			    |
+|                    mail:mahbubabid8@gmail.com               	    |
 |                			   			    |
 \*******************************************************************/
 
